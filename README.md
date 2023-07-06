@@ -33,4 +33,8 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 
 ![Uber Data Model](https://github.com/groverdaksh/Uber_DE_project/assets/134054161/b79628d3-abea-4f40-b000-dd87e597a156)
 
+## Data Visualization
+
+https://lookerstudio.google.com/reporting/5b3dd651-db36-4b96-b26b-0812ff64673c
+
 Thank You for Reading!
